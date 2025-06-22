@@ -16,11 +16,11 @@ Głównym celem projektu nie jest tylko stworzenie funkcjonalnej listy zakupów,
 
 ## 🛠️ Funkcjonalność aplikacji
 
-- ✅ Dodawanie, usuwanie i edytowanie produktów na liście
-- ✅ Wyświetlanie listy produktów
-- ✅ Eksport danych do pliku CSV
-- ✅ Import danych z pliku CSV z walidacją
-- ✅ Obsługa błędnych danych (np. tekst zamiast liczby)
+- Dodawanie, usuwanie i edytowanie produktów na liście
+- Wyświetlanie listy produktów
+- Eksport danych do pliku CSV
+- Import danych z pliku CSV z walidacją
+- Obsługa błędnych danych (np. tekst zamiast liczby)
 
 ---
 
